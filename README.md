@@ -4,15 +4,11 @@
 **Sitrus Cobblemon** é um servidor focado em **progressão**, **exploração**, **coleção completa de Pokémon**, **sistemas exclusivos** e aventura duradoura.
 {% endhint %}
 
-{% hint style="success" %}
-## 💬 Contate-nos & Comunidade
+## 💬 Comunidade e launcher
 
-Caso tenha alguma dúvida, sugestão ou mudança para propor, junte-se ao Discord oficial da Sitrus e fale com a equipe e com outros treinadores.
-{% endhint %}
+Dúvida, sugestão ou suporte? Entre no Discord. Para jogar no PC, baixe o **Sitrus Launcher**.
 
 <a href="https://discord.gg/pGdzZAYCCs" class="button primary" data-icon="discord">Entrar no Discord da Sitrus</a> <a href="https://github.com/cmpaixao/sitrus-launcher/releases/latest/download/Sitrus-Launcher-Setup-1.1.8.exe" class="button primary" data-icon="download">Baixar Launcher da Sitrus</a> <a href="pages/instalacao.md" class="button secondary" data-icon="book">Guia de instalação</a>
-
-{% embed url="https://discord.gg/pGdzZAYCCs" %}
 
 Esta wiki foi criada para ajudar você a:
 
