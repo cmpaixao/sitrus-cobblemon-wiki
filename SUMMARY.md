@@ -3,6 +3,7 @@
 ## Apresentação
 
 * [👋 Introdução](README.md)
+* [💬 Discord](comunidade.md)
 
 ## Primeiros Passos
 
