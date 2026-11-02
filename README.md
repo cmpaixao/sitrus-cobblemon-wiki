@@ -7,8 +7,12 @@
 {% hint style="success" %}
 ## 💬 Contate-nos & Comunidade
 
-Caso tenha alguma dúvida, sugestão ou mudança para propor, sinta-se à vontade para se juntar ao nosso [Discord Oficial](https://discord.gg/pGdzZAYCCs) e falar diretamente com nossa equipe ou com outros treinadores!
+Caso tenha alguma dúvida, sugestão ou mudança para propor, junte-se ao Discord oficial da Sitrus e fale com a equipe e com outros treinadores.
 {% endhint %}
+
+<a href="https://discord.gg/pGdzZAYCCs" class="button primary" data-icon="discord">Entrar no Discord da Sitrus</a> <a href="https://skmedix.pl/downloads" class="button primary" data-icon="download">Baixar Launcher da Sitrus</a> <a href="pages/instalacao.md" class="button secondary" data-icon="book">Guia de instalação</a>
+
+{% embed url="https://discord.gg/pGdzZAYCCs" %}
 
 Esta wiki foi criada para ajudar você a:
 

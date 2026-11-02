@@ -4,7 +4,9 @@
 As skins oficiais e da comunidade da **Sitrus Cobblemon** serão publicadas nesta página. Enquanto as artes não chegam, os slots abaixo ficam como **Em breve**.
 {% endhint %}
 
-Servidor: `Sitruscobblemon.com` · Discord: [Sitrus Cobblemon](https://discord.gg/pGdzZAYCCs)
+Servidor: `Sitruscobblemon.com`
+
+<a href="https://discord.gg/pGdzZAYCCs" class="button primary" data-icon="discord">Entrar no Discord da Sitrus</a> <a href="https://skmedix.pl/downloads" class="button secondary" data-icon="download">Baixar Launcher da Sitrus</a>
 
 ## 📌 Como funciona
 

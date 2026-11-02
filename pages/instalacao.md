@@ -4,6 +4,10 @@
 Escolha um launcher abaixo para instalar o modpack **Sitrus Cobblemon**. No celular (Android), use as abas **Mojo** ou **Zalith** e instale a versão **MOBILE**.
 {% endhint %}
 
+<a href="https://skmedix.pl/downloads" class="button primary" data-icon="download">Baixar Launcher da Sitrus</a> <a href="https://discord.gg/pGdzZAYCCs" class="button secondary" data-icon="discord">Discord da Sitrus</a>
+
+O launcher oficial usado no PC é o **SKLauncher**. Depois de instalar, busque o modpack `Sitrus Cobblemon` em **Modrinth**. Dúvidas de instalação? Chame no [Discord](https://discord.gg/pGdzZAYCCs).
+
 {% tabs %}
 {% tab title="SKLauncher" %}
 ## ![SKLauncher](../.gitbook/assets/instalacao/05.png) Como Instalar o Modpack Pelo SKLauncher
