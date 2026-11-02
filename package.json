@@ -1,0 +1,9 @@
+{
+  "name": "sitrus-cobblemon-wiki",
+  "version": "1.8.0",
+  "private": true,
+  "description": "Wiki oficial Sitrus Cobblemon em formato GitBook",
+  "scripts": {
+    "convert": "node scripts/convert-html-to-gitbook.mjs"
+  }
+}
