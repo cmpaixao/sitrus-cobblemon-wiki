@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Sitrus Cobblemon Wiki
+  structure:
+    - type: space
+      key: wiki
+      title: Wiki
+      path: wiki
+      default: true
+      content:
+        directory: ./
+        language: pt
