@@ -10,7 +10,7 @@
 Caso tenha alguma dúvida, sugestão ou mudança para propor, junte-se ao Discord oficial da Sitrus e fale com a equipe e com outros treinadores.
 {% endhint %}
 
-<a href="https://discord.gg/pGdzZAYCCs" class="button primary" data-icon="discord">Entrar no Discord da Sitrus</a> <a href="https://skmedix.pl/downloads" class="button primary" data-icon="download">Baixar Launcher da Sitrus</a> <a href="pages/instalacao.md" class="button secondary" data-icon="book">Guia de instalação</a>
+<a href="https://discord.gg/pGdzZAYCCs" class="button primary" data-icon="discord">Entrar no Discord da Sitrus</a> <a href="https://github.com/cmpaixao/sitrus-launcher/releases/latest/download/Sitrus-Launcher-Setup-1.1.8.exe" class="button primary" data-icon="download">Baixar Launcher da Sitrus</a> <a href="pages/instalacao.md" class="button secondary" data-icon="book">Guia de instalação</a>
 
 {% embed url="https://discord.gg/pGdzZAYCCs" %}
 
