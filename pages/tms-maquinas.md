@@ -3,59 +3,51 @@
 # 💿 **TMs, Gemas Elementais & Máquinas**
 
 {% hint style="info" %}
-O grande destaque da atualização **1.8.0 ("Make Your Move")** é o sistema oficial e imersivo de **TMs (Technical Machines)**. Agora você pode produzir seus próprios TMs através da **Máquina de TMs**, cultivar **Gemas Elementais** em cavernas e resgatar TMs lendários em ruínas e naufrágios!
+No Cobblemon **1.8.0 (“Make Your Move”)** os TMs são oficiais: você fabrica na **Máquina de TMs** com **Gemas Elementais**, desbloqueia receitas com Pokémon que já saibam o golpe e acha TMs exclusivos em **ruínas** e **coves de naufrágio**.
 {% endhint %}
 
-## O que são os TMs no Cobblemon?
+## O que é um TM
 
-Os TMs são discos tecnológicos que contêm dados de treinamento para ensinar golpes específicos a Pokémon compatíveis. Diferente de mods legados, o Cobblemon integra o sistema de TMs diretamente com os recursos do Minecraft (minérios, exploração de masmorras e agricultura de gemas).
+Disco que ensina um golpe a um Pokémon compatível. No Cobblemon isso usa minério, exploração e gemas — não é o sistema antigo de mods Pixelmon.
 
-## A Máquina de TMs (TM Machine)
+Por padrão o TM é **consumido** ao usar. Uso infinito só existe se a staff ligar isso na config do servidor.
 
-A **Máquina de TMs** é o bloco central onde você projeta e grava novos discos.
+## Máquina de TMs
 
--   **Mecânica de Desbloqueio Orgânico:** As receitas de TMs não vêm todas desbloqueadas por padrão. Para desbloquear a receita de um TM na máquina, você precisa ter em seu time um Pokémon que **já conheça aquele golpe naturalmente**!
--   **Gravação de Discos:** Para criar o TM, insira um disco em branco e as **Gemas Elementais** do tipo correspondente na Máquina de TMs.
--   **Uso Infinito ou Consumível:** A configuração do servidor dita se o TM é consumido após o uso ou se pode ser utilizado infinitas vezes.
+- A receita de um TM **não vem toda liberada**. Ela destrava quando você tem no time (ou na box, conforme o jogo reconhecer) um Pokémon que **já conheça aquele golpe**.
+- Para gravar: disco em branco + **gemas do tipo** do golpe na Máquina de TMs.
+- Há dezenas de TMs na máquina; uma parte já aparece, o resto destrava jogando.
 
-## Gemas Elementais (Type Gems) & Cultivo
+## Gemas Elementais
 
-As **Type Gems** são os catalisadores de energia elemental indispensáveis para a confecção de TMs:
-
--   **18 Variantes:** Existe uma gema para cada tipo Pokémon (Fogo, Água, Grama, Elétrico, Dragão, etc.).
--   **Cultivo de Cristais:** Você pode encontrar **Núcleos de Cristal de Ardósia Profunda (Deepslate Crystal Core)** e **Aglomerados de Cristais (Crystal Clusters)** nas profundezas do mundo para cultivar e colher novas gemas elementais ao longo do tempo.
--   **Integração com Mods:** No Create, os aglomerados de gemas podem ser triturados nos *Crushing Wheels* para automação industrial de gemas elementais!
+- Uma gema por tipo (os 18 tipos).
+- No mundo: blocos de gema, **aglomerados de cristal** e **Deepslate Crystal Core** para cultivar/colher.
+- Se o pack tiver **Create**, aglomerados de gema e tumblestone podem ir nas *Crushing Wheels* (retorno baixo, mas automatiza). Isso é integração oficial do Cobblemon 1.8 com Create, não invenção da wiki.
 
 {% hint style="success" %}
-💎 **Nova Receita de Item:** O item competitivo **Bico Afiado (Sharp Beak)** agora pode ser fabricado usando ossos e **Gemas Voadoras (Flying Gems)**!
+O **Bico Afiado (Sharp Beak)** no 1.8.0 crafta com ossos + **Flying Gems**.
 {% endhint %}
 
-## Onde Encontrar TMs Raros na Exploração
+## TMs no mundo (não só craft)
 
-Você não precisa depender apenas de fabricação. O mundo do Cobblemon 1.8.0 agora esconde TMs poderosos em estruturas misteriosas:
+Isso está no changelog 1.8.0 do Cobblemon:
 
-| Estrutura | Tipo de Baú | TM Garantido / Recompensa |
-| --- | --- | --- |
-| **Ruínas (Ruins & Arches)** | Baú Dourado (Gilded Chest) | Garante um TM exclusivo que **nenhum Pokémon aprende por nível** na natureza. |
-| **Magma Shipwreck Cove** | Baú Principal de Tesouro | **TM Blast Burn** (Incêndio Fatal - Golpe Supremo de Fogo). |
-| **Lush Shipwreck Cove** | Baú Principal de Tesouro | **TM Frenzy Plant** (Planta Frenética - Golpe Supremo de Grama). |
-| **Submerged Shipwreck Cove** | Baú Principal de Tesouro | **TM Hydro Cannon** (Hidro Canhão - Golpe Supremo de Água). |
+| Onde | O que vem |
+| --- | --- |
+| **Ruínas** — baú dourado (Gilded Chest) | TM que **nenhum** Pokémon aprende por nível. Cada ruína tem o seu. |
+| **Magma Shipwreck Cove** — baú principal | **TM Blast Burn** |
+| **Lush Shipwreck Cove** — baú principal | **TM Frenzy Plant** |
+| **Submerged Shipwreck Cove** — baú principal | **TM Hydro Cannon** |
 
-## Invocação de Porygon no Data Monitor
+## Data Monitor e Porygon
 
-O **Monitor de Dados (Data Monitor)** recebeu uma fantástica atualização de gameplay:
+Segurar **Upgrade** ou **Dubious Disc** e usar no **Data Monitor** materializa um **Porygon**. Discos de música/TM no monitor só mudam o visual da tela.
 
--   Ao interagir com o Data Monitor segurando um item **Upgrade** ou **Dubious Disc** (Disco Duvidoso), o monitor processará os dados e materializará o Pokémon virtual **Porygon** no mundo!
--   Você também pode inserir discos de música ou TMs no Data Monitor para alterar o visual da tela com animações e dados customizados.
+## Blocos do 1.8 ligados a isso
 
-## Novos Blocos do 1.8.0
+- **Disk Rack:** guarda até 8 discos (TM e música) e pode sequenciar Note Block.
+- **Habitat Block:** spawner de área para staff/mapas — **não** é item de progressão normal do jogador.
 
--   **Estante de Discos (Disk Rack):** Bloco decorativo funcional que armazena até 8 discos (TMs e músicas). Funciona também como um sequenciador de áudio para Blocos Musicais (Noteblocks).
--   **Bloco de Habitat (Habitat Block):** Bloco especial projetado para administradores de servidores e criadores de mapas de aventura para controlar o spawn de Pokémon em áreas demarcadas sem necessidade de datapacks complexos.
+## Comandos (staff)
 
-## Comandos e Conquistas de TMs
-
--   `/givetm <jogador> <golpe> [quantidade]`: Concede discos de TM diretamente para o inventário do jogador especificado.
--   **Conquista `cobblemon:has_learn_specific_tm`:** Disparada ao ensinar um TM específico.
--   **Conquista `cobblemon:has_learn_all_tm`:** Disparada ao ensinar todos os TMs disponíveis.
--   **Métrica `totalTMLearnedCount`:** Registra no perfil do jogador a quantidade total de TMs aprendidos por seus Pokémon.
+`/givetm` existe no Cobblemon 1.8 e **não** é comando de jogador. Conquistas `has_learn_specific_tm` / `has_learn_all_tm` e o contador `totalTMLearnedCount` são do próprio mod.

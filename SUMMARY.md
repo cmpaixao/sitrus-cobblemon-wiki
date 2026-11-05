@@ -14,7 +14,7 @@
 ## Cobblemon & Guias
 
 * [🐾 Pokémon e Spawns](pages/pokemon-spawns.md)
-* [🌟 Lendários & Estruturas](pages/lendarios.md)
+* [🌟 Lendários](pages/lendarios.md)
 * [🧬 Reprodução & Ovos](pages/breeding-reproducao.md)
 * [🐎 Sistema de Montarias](pages/montarias.md)
 * [🦴 Fósseis & Restauração](pages/fosseis.md)
@@ -26,7 +26,6 @@
 * [📡 PokéNav & PokeFinder](pages/guiadepoknavepokefinder.md)
 * [🛡️ Guia de Claim](pages/guiadeclaim.md)
 * [🪙 Moedas e Economia](pages/moedaseconomia.md)
-* [🦁 CobbleSafari e Dimensões](pages/cobblesafari.md)
 
 ## Mecânicas Avançadas
 
@@ -41,4 +40,3 @@
 ## Cosméticos
 
 * [🎨 Galeria de Skins](skins/README.md)
-* [📤 Como publicar skins](skins/como-publicar.md)

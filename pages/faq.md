@@ -41,7 +41,7 @@ Leia o [Guia de Claim](guiadeclaim.md) do servidor.
 
 ### Como faço para excluir uma claim?
 
-Para excluir uma claim específica, use **/abandonclaim**. Para excluir todas, use **/abandonallclaims**.
+O servidor usa **Flan**, não GriefPrevention. Fique **dentro** da claim, use **/flan menu** e exclua por lá. Não use `/abandonclaim`.
 
 ## 💰 Economia e Sistema de Trocas
 
@@ -66,7 +66,7 @@ Venda Pokémon pelo STS ou pratique breeding e venda no GTS. Veja também o guia
 
 ### O que são Raids Globais?
 
-Eventos onde um Pokémon é spawnado, e quem mais derrotá-lo pode capturá-lo. Acontecem a cada 2 horas (**08, 10, 12, 14, 16, 18, 20, 22, 00**). Todos os jogadores poderão capturar o Pokémon.
+Eventos na **Arena Celestial**, de **3 em 3 horas** (`00, 03, 06, 09, 12, 15, 18, 21`). As recompensas dependem da **colocação** no ranking da raid. Detalhes em [Raids](raids.md).
 
 ### Como resgato os kits?
 

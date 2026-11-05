@@ -11,8 +11,7 @@ Servidor: `Sitruscobblemon.com`
 ## 📌 Como funciona
 
 - A staff publica cada skin nesta galeria com **preview**, **nome**, **autor** e **como obter**.
-- Arquivos de imagem ficam em [`.gitbook/assets/skins`](../.gitbook/assets/skins/).
-- O passo a passo para a staff está em [Como publicar skins](como-publicar.md).
+- Arquivos de imagem ficam em `.gitbook/assets/skins/`.
 
 ## 🆕 Lançamentos
 

@@ -1,31 +1,35 @@
-# 🌟 **Lendários & Estruturas Antigas**
+# 🌟 **Lendários, Ultra Beasts e Paradoxos**
 
-{% hint style="warning" %}
-## ⚠️ Desafio Avançado
-
-Pokémon Lendários não podem ser encontrados simplesmente andando pelos campos comuns. É necessário localizar **Santuários Antigos**, completar rituais ou obter itens catalisadores lendários!
+{% hint style="info" %}
+No Sitrus, **lendários não aparecem em santuários, torres nem rituais pelo mapa**. Você os consegue pelas rotas oficiais abaixo.
 {% endhint %}
 
-## 🏛️ Os Monumentos Elementais
+## Como obter Lendários
 
-Espalhados pelos cantos mais remotos do mundo, existem três monumentos primordiais:
+Existem **quatro** formas oficiais:
 
--   **Santuário Vulcânico (Moltres / Entei):** Localizado em picos nevados ou crateras de lava no Nether.
--   **Torre das Nuvens (Articuno / Suicune):** Encontrado em alturas superiores a Y=220 em biomas glaciais.
--   **Ruína do Trovão (Zapdos / Raikou):** Estruturas misteriosas que se ativam exclusivamente durante tempestades de raios.
-
-* * *
-
-## 🌀 O Mundo Distorcido e Portais Dimensionais
-
-Certos lendários místicos requerem viajar entre dimensões paralelas:
-
-1.  Colete **Fragmentos Espaciais** derrotando Pokémon psíquicos e fantasmas de nível 60+.
-2.  Forje o **Espelho Dimensional** na Mesa de Alquimia.
-3.  Ative o portal para desafiar criaturas que desafiam o espaço-tempo!
+1. **Loja dos Exploradores** — gaste **Moedas de Explorador** (missões da Ordem dos Exploradores) para comprar lendários e itens ligados a eles.
+2. **Empório de Cristais** — loja abastecida com o progresso das **Raids de Cristais**.
+3. **Raids de Cristais** — batalhas solo nas estruturas de cristal espalhadas pela Região de Sintra. Podem dropar recursos e, em alguns casos, caminhos até lendários. Veja [Raids](raids.md).
+4. **Raids Globais** — na Arena Celestial, de 3 em 3 horas. As **Raids Fragmentadas** enfrentam Lendários, Ultra Beasts, Paradoxos, iniciais e pseudo-lendários. A recompensa depende da **colocação**.
 
 {% hint style="success" %}
-## 💡 Dica de Batalha
-
-Leve muitas **Ultra Balls**, **Heavy Balls** e pokémons com ataques de status (como *Hypnosis* ou *Thunder Wave*) e *False Swipe* para deixar com 1 HP sem derrotar.
+Missões da Ordem dos Exploradores são o caminho mais estável de Moedas de Explorador. Sem elas, a loja dos exploradores fica cara.
 {% endhint %}
+
+## O que não existe neste servidor
+
+Não procure:
+
+- Santuários vulcânicos, torres das nuvens ou ruínas do trovão para spawnar aves lendárias
+- Portais dimensionais, espelhos ou fragmentos espaciais para “invocar” lendários no mundo
+
+Essas estruturas **não** são o sistema de lendários do Sitrus.
+
+## Ultra Beasts e Paradoxos
+
+Ultra Beasts e Paradoxos entram no mesmo circuito: **loja dos exploradores**, **empório de cristais**, **raids de cristais** e **raids globais** (principalmente as fragmentadas).
+
+## Dica de batalha
+
+Leve **Ultra Balls** / **Heavy Balls**, Pokémon com status (*Thunder Wave*, *Hypnosis*) e *False Swipe* para facilitar a captura quando a raid ou o evento permitir.

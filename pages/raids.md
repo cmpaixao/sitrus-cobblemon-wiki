@@ -64,13 +64,21 @@ As Raids costumam ser desafiadoras, principalmente para iniciantes. Enfrente-as 
 
 A Raid Global consiste em batalhas importantes contra Pokémon poderosos que aparecem na **Arena Celestial**, erguida sob o olhar silencioso do Trio da Criação, entre as montanhas geladas da Região de Sintra.
 
-Nesse desafio, vocês competem contra outros jogadores para descobrir quem é o mais forte na Arena. Apenas os treinadores mais poderosos serão recompensados.
+Vocês competem contra outros jogadores. **As recompensas dependem da colocação** no ranking daquela raid (dano / desempenho), não só de “ter participado”.
 
-A Raid Global é dividida em duas categorias: **Raid Comum** e **Raid Fragmentada**.
+A Raid Global é dividida em duas categorias: **Raid Comum** e **Raid Fragmentada**. As duas seguem o **mesmo relógio**.
 
 <figure><img src="../.gitbook/assets/raids/04.png" alt="Bloco da Arena Celestial"><figcaption>Bloco da Arena Celestial</figcaption></figure>
 
-**Recompensas:**
+**Horário (de 3 em 3 horas):**
+
+`00:00` · `03:00` · `06:00` · `09:00` · `12:00` · `15:00` · `18:00` · `21:00`
+
+{% hint style="info" %}
+Quem melhor se coloca na raid leva mais. Quem só entra e sai recebe menos (ou só a faixa de participante).
+{% endhint %}
+
+**Recompensas por colocação:**
 
 | Colocação | Moedas |
 | --- | --- |
@@ -81,30 +89,12 @@ A Raid Global é dividida em duas categorias: **Raid Comum** e **Raid Fragmentad
 
 ### Raid Global Comum
 
-As Raids Comuns surgem naturalmente a cada **2 horas** na Arena Celestial. Por dia, os jogadores têm **5 tentativas** para sair vitoriosos.
+Surgem na Arena Celestial no relógio acima. Por dia, os jogadores têm **5 tentativas**.
 
-**Horários:**
-
--   🕙 08h
--   🕙 12h
--   🕙 14h
--   🕙 18h
--   🕙 20h
-
-**Quais Pokémon iremos enfrentar?**
-
-Na Raid Comum aparecem todos os Pokémon básicos em suas últimas formas (com exceção de Lendários, Ultra Beasts e Paradoxos).
+**Quais Pokémon?** Formas finais comuns (sem Lendários, Ultra Beasts e Paradoxos).
 
 ### Raid Global Fragmentada
 
-As Raids Fragmentadas aparecem em horários específicos na Arena Celestial. Os jogadores podem enfrentá-las **3 vezes por dia**.
+Também no relógio de **3 em 3 horas**. Os jogadores podem enfrentá-las **3 vezes por dia**.
 
-**Horários:**
-
--   🕙 10h
--   🕓 16h
--   🕙 22h
-
-**Quais Pokémon iremos enfrentar?**
-
-Na Raid Fragmentada vocês enfrentam Lendários, Ultra Beasts, Paradoxos, Iniciais e Pseudo-lendários.
+**Quais Pokémon?** Lendários, Ultra Beasts, Paradoxos, iniciais e pseudo-lendários.
