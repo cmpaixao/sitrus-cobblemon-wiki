@@ -6,7 +6,7 @@ As skins oficiais e da comunidade da **Sitrus Cobblemon** serão publicadas nest
 
 Servidor: `Sitruscobblemon.com`
 
-<a href="https://discord.gg/pGdzZAYCCs" class="button primary" data-icon="discord">Entrar no Discord da Sitrus</a> <a href="https://github.com/cmpaixao/sitrus-launcher/releases/download/v1.1.14/Sitrus-Launcher-Setup-1.1.14.exe" class="button secondary" data-icon="download">Baixar Launcher da Sitrus</a>
+<a href="https://discord.gg/pGdzZAYCCs" class="button primary" data-icon="discord">Entrar no Discord da Sitrus</a> <a href="https://sitruscobblemon.github.io/sitrus-wiki/static/download-launcher.html" class="button secondary" data-icon="download">Baixar Launcher da Sitrus</a>
 
 ## 📌 Como funciona
 

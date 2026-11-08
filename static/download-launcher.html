@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Baixar Sitrus Launcher</title>
+  <style>
+    body { font-family: sans-serif; background: #111; color: #eee; display: grid; place-items: center; min-height: 100vh; margin: 0; }
+    p { opacity: .8; }
+    a { color: #f97316; }
+  </style>
+</head>
+<body>
+  <p>Buscando a última versão do Sitrus Launcher…</p>
+  <script>
+    const fallback = "https://github.com/cmpaixao/sitrus-launcher/releases/latest";
+    fetch("https://api.github.com/repos/cmpaixao/sitrus-launcher/releases/latest")
+      .then(function (res) { if (!res.ok) throw new Error("api"); return res.json(); })
+      .then(function (rel) {
+        var assets = rel.assets || [];
+        var setup = assets.find(function (a) {
+          return /^Sitrus-Launcher-Setup-.*\.exe$/.test(a.name) && a.name.indexOf("blockmap") === -1;
+        });
+        if (!setup) throw new Error("missing");
+        window.location.replace(setup.browser_download_url);
+      })
+      .catch(function () { window.location.replace(fallback); });
+  </script>
+  <noscript>
+    <p><a href="https://github.com/cmpaixao/sitrus-launcher/releases/latest">Abrir última versão no GitHub</a></p>
+  </noscript>
+</body>
+</html>

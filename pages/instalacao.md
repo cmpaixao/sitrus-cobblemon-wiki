@@ -4,9 +4,9 @@
 Escolha um launcher abaixo para instalar o modpack **Sitrus Cobblemon**. No celular (Android), use as abas **Mojo** ou **Zalith** e instale a versão **MOBILE**.
 {% endhint %}
 
-<a href="https://github.com/cmpaixao/sitrus-launcher/releases/download/v1.1.14/Sitrus-Launcher-Setup-1.1.14.exe" class="button primary" data-icon="download">Baixar Launcher da Sitrus</a> <a href="https://discord.gg/pGdzZAYCCs" class="button secondary" data-icon="discord">Discord da Sitrus</a>
+<a href="https://sitruscobblemon.github.io/sitrus-wiki/static/download-launcher.html" class="button primary" data-icon="download">Baixar Launcher da Sitrus</a> <a href="https://discord.gg/pGdzZAYCCs" class="button secondary" data-icon="discord">Discord da Sitrus</a>
 
-O launcher oficial do PC é o **[Sitrus Launcher](https://github.com/cmpaixao/sitrus-launcher)** (versão **1.1.14**). Dúvidas de instalação? Chame no [Discord](https://discord.gg/pGdzZAYCCs).
+O launcher oficial do PC é o **[Sitrus Launcher](https://github.com/cmpaixao/sitrus-launcher)**. O botão **sempre baixa a última versão**. Dúvidas de instalação? Chame no [Discord](https://discord.gg/pGdzZAYCCs).
 
 {% tabs %}
 {% tab title="Sitrus Launcher" %}
@@ -18,16 +18,16 @@ O [Sitrus Launcher](https://github.com/cmpaixao/sitrus-launcher) instala o pack 
 {% step %}
 ### Baixe o instalador
 
-Baixe a última versão no GitHub:
+Baixe a última versão no GitHub (o botão consulta a release mais recente):
 
-<a href="https://github.com/cmpaixao/sitrus-launcher/releases/download/v1.1.14/Sitrus-Launcher-Setup-1.1.14.exe" class="button primary" data-icon="download">Baixar Sitrus-Launcher-Setup-1.1.14.exe</a>
+<a href="https://sitruscobblemon.github.io/sitrus-wiki/static/download-launcher.html" class="button primary" data-icon="download">Baixar última versão</a>
 
-Também dá para abrir a [página de releases](https://github.com/cmpaixao/sitrus-launcher/releases/latest) e escolher o arquivo `Sitrus-Launcher-Setup`.
+Se o download automático não abrir, use a [página de releases](https://github.com/cmpaixao/sitrus-launcher/releases/latest) e pegue o `Sitrus-Launcher-Setup`.
 {% endstep %}
 {% step %}
 ### Instale o launcher
 
-Execute o `Sitrus-Launcher-Setup-1.1.14.exe` e conclua a instalação no Windows.
+Execute o instalador `Sitrus-Launcher-Setup` baixado e conclua a instalação no Windows.
 {% endstep %}
 {% step %}
 ### Abra e jogue
