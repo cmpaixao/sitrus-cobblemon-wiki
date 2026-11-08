@@ -8,7 +8,7 @@
 
 Dúvida, sugestão ou suporte? Entre no Discord. Para jogar no PC, baixe o **Sitrus Launcher**.
 
-<a href="comunidade.md" class="button primary" data-icon="discord">Entrar no Discord da Sitrus</a> <a href="https://github.com/cmpaixao/sitrus-launcher/releases/latest/download/Sitrus-Launcher-Setup-1.1.8.exe" class="button primary" data-icon="download">Baixar Launcher da Sitrus</a> <a href="pages/instalacao.md" class="button secondary" data-icon="book">Guia de instalação</a>
+<a href="comunidade.md" class="button primary" data-icon="discord">Entrar no Discord da Sitrus</a> <a href="https://github.com/cmpaixao/sitrus-launcher/releases/download/v1.1.14/Sitrus-Launcher-Setup-1.1.14.exe" class="button primary" data-icon="download">Baixar Launcher da Sitrus</a> <a href="pages/instalacao.md" class="button secondary" data-icon="book">Guia de instalação</a>
 
 Esta wiki foi criada para ajudar você a:
 
